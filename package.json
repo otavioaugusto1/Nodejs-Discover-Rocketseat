@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-discover-rocketseat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "console.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otavioaugusto1/Nodejs-Discover-Rocketseat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otavioaugusto1/Nodejs-Discover-Rocketseat/issues"
+  },
+  "homepage": "https://github.com/otavioaugusto1/Nodejs-Discover-Rocketseat#readme",
+  "dependencies": {
+    "cfonts": "^2.10.0"
+  }
+}
